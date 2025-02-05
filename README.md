@@ -22,6 +22,8 @@ bash
 Copy
 Edit
 npm install
+
+
 Environment Variables
 Make sure to create a .env file in the root of the project with the following environment variables:
 
