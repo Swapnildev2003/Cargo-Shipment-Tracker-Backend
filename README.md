@@ -22,8 +22,6 @@ bash
 Copy
 Edit
 npm install
-
-
 Environment Variables
 Make sure to create a .env file in the root of the project with the following environment variables:
 
@@ -150,17 +148,13 @@ body-parser: For parsing incoming request bodies.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-markdown
+vbnet
 Copy
 Edit
 
-### Changes Made:
-- Added the `MONGO_URI` environment variable and explanation for it.
-- Clarified the purpose of the `PORT` variable.
-- The rest of the structure remains the same, with instructions on setting up, running the backend, and using the API.
+### Key Notes:
+1. **GitHub Rendering**: GitHub will automatically render this `.md` file as a structured document with headings, code blocks, and links. You just need to ensure it's named `README.md` and placed in the root of the repository.
+2. **Code Blocks**: Use triple backticks (```) for code blocks, which GitHub will highlight accordingly.
+3. **Links and Lists**: Markdown supports automatic generation of clickable table of contents and other link-based structures.
 
-
-
-
-
-
+Simply copy-paste this into your `README.md` in your backend repository, and it will appear properly formatted on GitHub.
